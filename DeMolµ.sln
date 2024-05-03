@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeMolµ", "DeMolµ.csproj", "{9CDF670F-E2F4-49A5-B70C-3E6F92A4E2D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeMoltest", "..\DeMoltest\DeMoltest.csproj", "{C20ED905-42ED-4376-8092-4E0598F019B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CDF670F-E2F4-49A5-B70C-3E6F92A4E2D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CDF670F-E2F4-49A5-B70C-3E6F92A4E2D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CDF670F-E2F4-49A5-B70C-3E6F92A4E2D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CDF670F-E2F4-49A5-B70C-3E6F92A4E2D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C20ED905-42ED-4376-8092-4E0598F019B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C20ED905-42ED-4376-8092-4E0598F019B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C20ED905-42ED-4376-8092-4E0598F019B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C20ED905-42ED-4376-8092-4E0598F019B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3507B7C9-0189-43D5-B2B6-F9A3F1DF5DE7}
+	EndGlobalSection
+EndGlobal
